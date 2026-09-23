@@ -2,7 +2,7 @@
    UGB Plus — Landing
    Punto de entrada de estilos. El ORDEN importa (cascada).
    ========================================================= */
-@import url("../../shared/css/variables.css");
+@import url("variables.css");
 @import url("base.css");
 @import url("sections/header.css");
 @import url("components/buttons.css");
